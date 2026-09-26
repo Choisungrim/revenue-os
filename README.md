@@ -1,2 +1,2 @@
 # revenue-os
-Revenue OS repository
+Revenue OS repository ㅅㅅ
